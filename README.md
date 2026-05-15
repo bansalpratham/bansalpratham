@@ -51,11 +51,6 @@ Currently sharpening my skills in system design and looking to collaborate on pr
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bansalpratham&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalpratham&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bansalpratham&theme=default&hide_border=true" />
 </p>
 
