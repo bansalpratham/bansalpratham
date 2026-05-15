@@ -61,5 +61,8 @@ Currently sharpening my skills in system design and looking to collaborate on pr
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/bansalpratham/bansalpratham/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bansalpratham&color=0F6E56&style=for-the-badge" alt="Profile views" />
 </p>
