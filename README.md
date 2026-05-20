@@ -29,7 +29,7 @@ Currently sharpening my skills in system design and looking to collaborate on pr
 ### 🔗 [Vingo](https://github.com/bansalpratham/vingo) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-0F6E56?style=for-the-badge)](https://vingo-two.vercel.app)
 > Full-stack food delivery web app with browsing, cart, and order management. Built with a React frontend and a Node.js + MongoDB backend.
 
-**Stack:** `React` `Node.js` `MongoDB` `Express.js`
+**Stack:** `React` `Node.js` `MongoDB` `Express.js` `Socket.io`
 
 ### 🔗 [Multicart](https://github.com/bansalpratham/Multicart) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-0F6E56?style=for-the-badge)](https://multicart-zeta.vercel.app)
 > E-commerce platform with product listings, cart functionality, and a responsive UI.
